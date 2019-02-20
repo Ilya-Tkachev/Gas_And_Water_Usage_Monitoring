@@ -1,0 +1,5 @@
+To run application please open target directory and run "java -jar Gas_And_Water_Usage_Monitoring-1.0-SNAPSHOT.jar" command.
+For easier testing I recommend to use swagger by the following url "http://localhost:8080/swagger-ui.html".
+I used single class for all measurements it makes application flexible, if you need to add new type of measurement like electricity or any other you
+need only to change data in DB, no recompilation of application will be required, the only limitation is that measurement must be pf double type, this
+can be alse improved with help of UI, I can explain that during interview.

@@ -1,0 +1,17 @@
+com\gaw\model\entity\User.class
+com\gaw\model\view\MeasurementView.class
+com\gaw\controller\SubmitController.class
+com\gaw\model\view\SimpleAnswer.class
+com\gaw\model\entity\Measurement$MeasurementBuilder.class
+com\gaw\Application.class
+com\gaw\controller\HistoryController.class
+com\gaw\model\entity\MeasurementType.class
+com\gaw\config\SwaggerConfig.class
+com\gaw\repository\UserRepository.class
+com\gaw\repository\MeasurementTypeRepository.class
+com\gaw\model\view\MeasurementView$MeasurementViewBuilder.class
+com\gaw\model\view\SimpleAnswer$SimpleAnswerBuilder.class
+com\gaw\service\MeasurementService.class
+com\gaw\repository\MeasurementRepository.class
+com\gaw\service\UserService.class
+com\gaw\model\entity\Measurement.class
